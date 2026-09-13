@@ -45,4 +45,4 @@ python3 main.py
 Fila con capacidad fija, sin prioridad fuera de turno, sin persistencia de datos. Mejora: guardar el estado en un archivo.
 
 ## 10. Enlace al video
-https://youtu.be/wgRofcpPjno
+https://canva.link/cpf3adwo9pdswh5
